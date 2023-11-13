@@ -1,0 +1,17 @@
+{
+  "name": "karimaali/design_pattern_course",
+  "description": "this package hold content",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "karima",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
